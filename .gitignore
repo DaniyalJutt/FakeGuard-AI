@@ -1,0 +1,42 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large / generated data
+data/raw/*
+data/processed/*
+data/generated/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/generated/.gitkeep
+
+# Model artifacts (uncomment if too large for the repo / use Git LFS instead)
+# models/**/*.pkl
+# models/**/*.txt
+
+# Outputs
+outputs/reports/*
+outputs/figures/*
+outputs/predictions/*
+!outputs/reports/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/predictions/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env vars
+.env

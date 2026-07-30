@@ -1,0 +1,35 @@
+# ===== Core Data Processing =====
+pandas>=1.5.0
+numpy>=1.23.0
+
+# ===== Scraping =====
+google-play-scraper>=1.2.4
+
+# ===== ML & NLP =====
+scikit-learn>=1.2.0
+lightgbm>=3.3.5
+xgboost>=2.0.0
+vaderSentiment>=3.3.2
+transformers>=4.30.0
+torch>=2.0.1
+langdetect>=1.0.9
+emoji>=2.8.0
+scipy>=1.11.0
+
+# ===== Visualization =====
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+wordcloud>=1.9.2
+
+# ===== Web App (Frontends) =====
+streamlit>=1.28.0
+
+# ===== Images =====
+Pillow>=10.0.0
+
+# ===== Utils =====
+joblib>=1.2.0
+
+# ===== Testing =====
+pytest>=7.4.0
