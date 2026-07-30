@@ -1,0 +1,11 @@
+app_id,app_name,category,rating,total_reviews,installs,developer,category_custom
+com.whatsapp,WhatsApp Messenger,Communication,4.393669,1991115,"10,000,000,000+",WhatsApp LLC,Social Media
+com.instagram.android,Instagram,Social,3.9261022,4596310,"5,000,000,000+",Instagram,Social Media
+com.daraz.android,Daraz Online Shopping App,Shopping,4.292187,8320,"100,000,000+",Daraz Mobile,E-commerce
+com.amazon.mShop.android.shopping,Amazon Shopping,Shopping,4.442137,334859,"500,000,000+",Amazon Mobile LLC,E-commerce
+com.global.foodpanda.android,foodpanda: food & groceries,Food & Drink,4.084512,9170,"100,000,000+",Foodpanda GmbH a subsidiary of Delivery Hero SE,Food Delivery
+com.careem.acma,"Careem: Rides, Food & more",Maps & Navigation,4.2585974,7337,"50,000,000+",Careem,Food Delivery
+com.techlogix.mobilinkcustomer,JazzCash - Your Mobile Account,Finance,4.541304,1719,"50,000,000+",JazzCash,Banking
+pk.com.telenor.phoenix,easypaisa – a digital bank,Finance,4.5761404,2638,"100,000,000+",Telenor Microfinance Bank Limited,Banking
+com.netflix.mediaclient,Netflix,Entertainment,3.9641707,910691,"1,000,000,000+","Netflix, Inc.",Entertainment
+com.spotify.music,Spotify: Music and Podcasts,Music & Audio,4.319852,1811549,"1,000,000,000+",Spotify AB,Entertainment

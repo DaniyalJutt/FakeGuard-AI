@@ -1,0 +1,84 @@
+{
+  "version": "v1.0",
+  "timestamp": "20251110_190301",
+  "collection_date": "2025-11-10T19:10:48.019169",
+  "rating_targets": {
+    "5": 500,
+    "4": 200,
+    "3": 100,
+    "2": 200,
+    "1": 500
+  },
+  "max_words": 40,
+  "apps": {
+    "Social Media": [
+      {
+        "name": "WhatsApp",
+        "id": "com.whatsapp"
+      },
+      {
+        "name": "Instagram",
+        "id": "com.instagram.android"
+      }
+    ],
+    "E-commerce": [
+      {
+        "name": "Daraz",
+        "id": "com.daraz.android"
+      },
+      {
+        "name": "Amazon",
+        "id": "com.amazon.mShop.android.shopping"
+      }
+    ],
+    "Food Delivery": [
+      {
+        "name": "Foodpanda",
+        "id": "com.global.foodpanda.android"
+      },
+      {
+        "name": "Careem",
+        "id": "com.careem.acma"
+      }
+    ],
+    "Banking": [
+      {
+        "name": "JazzCash",
+        "id": "com.techlogix.mobilinkcustomer"
+      },
+      {
+        "name": "Easypaisa",
+        "id": "pk.com.telenor.phoenix"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Netflix",
+        "id": "com.netflix.mediaclient"
+      },
+      {
+        "name": "Spotify",
+        "id": "com.spotify.music"
+      }
+    ]
+  },
+  "statistics": {
+    "total_reviews": 14131,
+    "total_apps": 10,
+    "rating_distribution": {
+      "5": 5000,
+      "1": 4834,
+      "4": 1875,
+      "2": 1448,
+      "3": 974
+    },
+    "flagged_stats": {
+      "promo_words": 755,
+      "urdu_words": 4399,
+      "bursts": 0,
+      "duplicates": 537,
+      "rating_mismatch": 590,
+      "generic_usernames": 0
+    }
+  }
+}
