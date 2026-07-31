@@ -199,22 +199,3 @@ analysis).
 `Matplotlib` / `Seaborn` · `google-play-scraper`
 
 ---
-
-## 🧪 Tests
-
-```bash
-pytest tests/
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see [LICENSE](LICENSE).
-
----
-
-## 🙋 Author
-
-Final Year Project — **FakeGuard AI**
-Real-Time Fake Review Detection & Advanced Multilingual Sentiment Analysis
